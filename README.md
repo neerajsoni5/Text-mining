@@ -1,0 +1,13 @@
+# Text-mining
+Extracting required word/string from a set of comment 
+
+In my current company we were facing in coaliting the comments thta we have received from our field team.
+Our Field team use to share their comments in terms of growth/decline for a specific market. 
+There comments are totally subjective , with out any set/ standaridize method, as it would be difficlut to restrict them as well :)...
+
+Now at our end it would be totally manual process to extract the meaningful info from those set of comments...
+
+Here i saw the importance of Text Mining and i have try to implemet it in my process and works awesome...
+Now with in couple of hours i am able to identify territory wise which are the frequesnt comments that i jhave received for growth and decline...
+
+Attaching one sample code( not original) found on one of the website, which   i found  very useful for my live projects
